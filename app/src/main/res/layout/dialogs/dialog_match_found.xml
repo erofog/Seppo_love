@@ -1,0 +1,16 @@
+val dialog = Dialog(context)
+    dialog.setContentView(R.layout.dialog_match_found)
+
+    // Set up the buttons
+    val viewProfileButton = dialog.findViewById<Button>(R.id.btn_view_profile)
+    val sendMessageButton = dialog.findViewById<Button>(R.id.btn_send_message)
+
+        viewProfileButton.setOnClickListener {
+        // Handle the view profile button click
+        }
+
+        sendMessageButton.setOnClickListener {
+        // Handle the send message button click
+        }
+
+        dialog.show()
