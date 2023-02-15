@@ -9,4 +9,20 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <!-- Strings for profile creation -->
+    <string name="profile_creation_title">Create Profile</string>
+    <string name="profile_creation_name_hint">Name</string>
+    <string name="profile_creation_bio_hint">Bio</string>
+    <string name="profile_creation_photo_hint">Add photo</string>
+    <string name="profile_creation_continue">Continue</string>
+    <string name="profile_creation_skip">Skip</string>
+    <!-- Strings for matches -->
+    <string name="match_found">Match found!</string>
+    <string name="match_accept">Accept</string>
+    <string name="match_decline">Decline</string>
+    <string name="match_error">Error finding match</string>
+    <!-- Strings for chat -->
+    <string name="chat_title">Chat</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_message_hint">Type your message here</string>
 </resources>
